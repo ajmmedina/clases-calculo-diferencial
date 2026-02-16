@@ -2,7 +2,6 @@
 title: "Cálculo Diferencial"
 subtitle: "Verano 2026 - Universidad Continental"
 author: "Alexander Josué Meza Medina"
-theme: cosmo
 ---
 
 ::: {.column-screen .text-center style="background-color: #f8f9fa; padding: 2em; margin-bottom: 2em; border-radius: 10px;"}
